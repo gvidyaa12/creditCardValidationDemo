@@ -1,4 +1,4 @@
-## This README provides a structured overview of the implementation, including the form layout, validation logic, and styles. It also includes key code snippets and insights on how the form behaves, ensuring a clear understanding of the functionality.
+This README provides a structured overview of the implementation, including the form layout, validation logic, and styles. It also includes key code snippets and insights on how the form behaves, ensuring a clear understanding of the functionality.
 
 # Credit Card Form Implementation
 
